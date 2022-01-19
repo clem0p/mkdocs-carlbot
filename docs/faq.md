@@ -26,7 +26,7 @@ Just assign the bot a role that is higher than highest role it has to assign, th
 
 ### How do I get a message ID?
 
-Discord settings -&gt; Appearance -&gt; Developer mode
+Discord settings -&gt; advance -&gt; Developer mode
 
 ![](../images/copy_id.png)
 
